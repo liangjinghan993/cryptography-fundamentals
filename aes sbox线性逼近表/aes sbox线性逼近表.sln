@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aes sbox线性逼近表", "aes sbox线性逼近表\aes sbox线性逼近表.vcxproj", "{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Debug|x64.ActiveCfg = Debug|x64
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Debug|x64.Build.0 = Debug|x64
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Debug|x86.Build.0 = Debug|Win32
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Release|x64.ActiveCfg = Release|x64
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Release|x64.Build.0 = Release|x64
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Release|x86.ActiveCfg = Release|Win32
+		{46F5E8D7-7579-47E8-8532-A7E14DB2E6F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72AAF5FE-CD17-4A2D-A8D3-483301C2AD84}
+	EndGlobalSection
+EndGlobal

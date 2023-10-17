@@ -1,0 +1,4 @@
+﻿  四元正确对.cpp
+D:\密码学基础\四元正确对\四元正确对\四元正确对.cpp(49,25): warning C4244: “参数”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+D:\密码学基础\四元正确对\四元正确对\四元正确对.cpp(49,50): warning C4244: “参数”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+  四元正确对.vcxproj -> D:\密码学基础\四元正确对\x64\Debug\四元正确对.exe
